@@ -1,4 +1,6 @@
-# Sergio | Senior Technical Consultant & Process Automation Professional
+# Senior Technical Consultant & Process Automation Professional
+
+Hi, call me **Serge**, this is what I usually get called. It's short for Sergio, which can be a bit of a tongue-twister for non-Spanish speakers! 😄
 
 👋 **Welcome to my GitHub profile!** I'm a passionate advocate for using technology as a powerful tool for solving real-world business problems. My approach is built on a cycle of learning, testing, failing, and succeeding to build robust, human-centric automation solutions.
 
